@@ -1,4 +1,4 @@
-# Github-jakenussbaum-cs102_at_cooper_at_final_python_project_template
+# Jacob Nussbaum's Final Python Project
 
 This code takes U.S. Covid-19 data provided by the CDC and processes it.
 
