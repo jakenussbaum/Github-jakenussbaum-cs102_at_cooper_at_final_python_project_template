@@ -4,7 +4,7 @@ This code takes U.S. Covid-19 data provided by the CDC and processes it.
 
 The specific data it is processing is the daily number of new Covid cases on each day from January 2020 until now.
 
-The code graphs that data, showing exactly when our numbers started increasingly drastically each day - hitting 300,000 at one point in January 2021 - and when they started increasing by smaller amounts each day.
+The code graphs that data, showing exactly when our numbers started increasingly drastically each day (hitting 300,000 at one point in January 2021!) and when they started increasing by smaller amounts each day (like in the summer of 2021).
 
 Finally, the code displays the average daily increase - or the average value of this graph. 
 
