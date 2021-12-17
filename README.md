@@ -1,5 +1,7 @@
 # Jacob Nussbaum's Final Python Project
 
+by Jacob Nussbaum for CS 102 Section C Fall 2021
+
 This code (under the name jacob_nussbaum_python_project.ipynb) takes U.S. Covid-19 data provided by the CDC and processes it.
 
 The specific data it is processing is the daily number of new Covid cases on each day from January 2020 until now. This data file is uploaded in the repository under the file name "covidincrease.csv".
